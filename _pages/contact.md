@@ -20,15 +20,15 @@ share: false
 --->
 
 
-Email: jkim266[at]syr.edu
+Email: jooyoung.cha[at]vanderbilt.edu
 <br>
 <br>
 Address:
 <br>
-Maxwell School of Citizenship and Public Affairs <br>
-Syracuse University <br>
-426 Eggers Hall <br>
-Syracuse NY 13244
+Department of Economics <br>
+Vanderbilt University <br>
+2301 Vanderbilt Place <br>
+Nashville TN 37
 
 
 <!-- * <b>Alcantara, R.</b>, Edwards, WB., Millet, G., Grabowski, A. [Predicting continuous ground reaction forces from accelerometers during uphill and downhill running: A Recurrent neural network solution.](https://doi.org/10.7717/peerj.12752) PeerJ (2022). -->
