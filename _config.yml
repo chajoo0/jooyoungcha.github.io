@@ -7,8 +7,8 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : ""
-title_separator          : ""
+title                    : "Jooyoung Cha"
+title_separator          : "s"
 name                     : &name "Jooyoung"
 description              : &description "Jooyoung's Personal Website"
 url                      : https://chajoo0.github.io # the base hostname & protocol for your site 
