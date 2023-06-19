@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Jooyoung Cha"
+title                    : ""
 title_separator          : ""
 name                     : &name "Jooyoung"
 description              : &description "Jooyoung's Personal Website"
