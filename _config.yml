@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Jooyoung Cha"
 title_separator          : ""
-name                     : &name "Jooyoung Cha"
+name                     : &name "Jooyoung"
 description              : &description "Jooyoung's Personal Website"
 url                      : https://chajoo0.github.io # the base hostname & protocol for your site 
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -250,7 +250,7 @@ sass:
 permalink: /:categories/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: America/Chicago # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins
