@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: Jooyoung Cha
+title: 
 layout: single
 header:
   overlay_image: header_image.jpg
