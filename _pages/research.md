@@ -20,14 +20,5 @@ share: true
 --->
 
 # 
-
-### 
-
-
-
-<!-- * <b>Alcantara, R.</b>, Edwards, WB., Millet, G., Grabowski, A. [Predicting continuous ground reaction forces from accelerometers during uphill and downhill running: A Recurrent neural network solution.](https://doi.org/10.7717/peerj.12752) PeerJ (2022). -->
-
-
-
-
-
+##
+###
