@@ -433,6 +433,13 @@
 /*
    last-child dark mode
    ========================================================================== */
+  li:nth-child(6) { {
+    float: right;
+
+    a {
+	color: #fff;
+    }
+}
 
   li:last-child {
     float: right;
