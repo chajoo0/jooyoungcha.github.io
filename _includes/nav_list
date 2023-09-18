@@ -38,6 +38,7 @@
 
             <li><a href="{{ domain }}{{ child.url }}" class="{{ active }}">{{ child.title }}</a></li>
           {% endfor %}
+          <button type="button">Click Me!</button>
         </ul>
         {% endif %}
       </li>
